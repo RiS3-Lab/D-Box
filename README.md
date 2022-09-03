@@ -90,9 +90,8 @@ Please refer to our paper for the complete setup for measuring energy and perfor
 
 If you need support or have any question, please open an issue on this repository.
 
-
-
-
+## Disclaimer
+D-Box implementation is only a proof of concept. We recommend using its code with precaution and under your responsibility for production settings. For more details, also read the license file.
 
 
 
