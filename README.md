@@ -70,7 +70,7 @@ After cloning the directory structure will be as follows:
 ### Note: 
 * The source directory contains the complete FreeRTOS kernel. We only listed the files that we modified or added to implement D-Box.
 * The source code of the case study is only a fragment of a complete PLC program as described in 
-our paper. We cannot provide the complete PLC program since it contains proprietary source code.
+our paper. We cannot provide the complete PLC program since it contains proprietary routines.
 
 
 
