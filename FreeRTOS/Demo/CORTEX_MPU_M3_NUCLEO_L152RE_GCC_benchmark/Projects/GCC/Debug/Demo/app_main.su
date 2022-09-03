@@ -1,0 +1,5 @@
+app_main.c:37:6:app_main	8	static
+app_main.c:50:6:vApplicationStackOverflowHook	16	static
+app_main.c:60:6:vApplicationMallocFailedHook	4	static
+app_main.c:72:6:vApplicationGetIdleTaskMemory	24	static
+app_main.c:97:6:vApplicationGetTimerTaskMemory	24	static

@@ -1,0 +1,9 @@
+MB85RS64V.c:22:8:MB85R_Init	24	static
+MB85RS64V.c:35:9:MB85R_Read_SR	80	static
+MB85RS64V.c:68:10:MB85R_Read_ID	96	static
+MB85RS64V.c:110:6:MB85R_Write_EN	80	static
+MB85RS64V.c:136:6:MB85R_WriteProtectBlock	16	static
+MB85RS64V.c:142:6:MB85R_WriteUnProtectBlock	16	static
+MB85RS64V.c:149:10:MB85R_Write_Data	88	static
+MB85RS64V.c:200:10:MB85R_Read_Data	88	static
+MB85RS64V.c:249:18:waitNotification	16	static

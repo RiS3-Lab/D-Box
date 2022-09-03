@@ -1,0 +1,17 @@
+stm32l1xx_ll_usart.h:1813:26:LL_USART_IsActiveFlag_TXE	16	static
+stm32l1xx_ll_usart.h:2425:22:LL_USART_TransmitData8	16	static
+stm32l1xx_ll_gpio.h:883:22:LL_GPIO_SetOutputPin	16	static
+stm32l1xx_ll_gpio.h:913:22:LL_GPIO_ResetOutputPin	16	static
+mpu_demo.c:96:13:prvROAccessTask	32	static,ignoring_inline_asm
+mpu_demo.c:189:13:prvRWAccessTask	16	static
+mpu_demo.c:213:13:prvTestTask	168	static,ignoring_inline_asm
+mpu_demo.c:684:6:vStartMPUDemo	200	static
+mpu_demo.c:752:23:vHandleMemoryFault	24	static
+mpu_demo.c:815:6:_putchar	16	static
+mpu_demo.c:824:6:HAL_UART_TxCpltCallback	24	static
+mpu_demo.c:846:6:HAL_UART_RxCpltCallback	24	static
+mpu_demo.c:862:6:HAL_SPI_TxCpltCallback	24	static
+mpu_demo.c:878:6:HAL_SPI_RxCpltCallback	24	static
+mpu_demo.c:894:6:HAL_I2C_MasterTxCpltCallback	24	static
+mpu_demo.c:909:6:HAL_I2C_MasterRxCpltCallback	24	static
+mpu_demo.c:925:6:HAL_ADC_ConvCpltCallback	24	static

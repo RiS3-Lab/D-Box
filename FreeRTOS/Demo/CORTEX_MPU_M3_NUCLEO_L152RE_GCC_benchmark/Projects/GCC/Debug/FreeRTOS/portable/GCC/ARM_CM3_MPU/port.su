@@ -1,0 +1,17 @@
+port.c:218:15:pxPortInitialiseStack	24	static
+port.c:417:12:xPortStartScheduler	32	static,ignoring_inline_asm
+port.c:522:6:vPortEndScheduler	16	static,ignoring_inline_asm
+port.c:863:6:vPortStoreTaskMPUSettings	32	static
+port.c:662:13:prvSetupMPU	8	static
+port.c:772:17:prvGetMPURegionSizeSetting	24	static
+port.c:557:6:PendSV_Handler	0	static,ignoring_inline_asm
+port.c:629:6:SysTick_Handler	8	static,ignoring_inline_asm
+port.c:248:6:SVC_Handler	0	static,ignoring_inline_asm
+port.c:371:13:prvRestoreContextOfFirstTask	0	static,ignoring_inline_asm
+port.c:273:13:prvSVCHandler	24	static,ignoring_inline_asm
+port.c:530:6:vPortEnterCritical	16	static,ignoring_inline_asm
+port.c:541:6:vPortExitCritical	24	static,ignoring_inline_asm
+port.c:650:32:vPortSetupTimerInterrupt	4	static
+port.c:796:12:xIsPrivileged	0	static,ignoring_inline_asm
+port.c:833:6:vResetPrivilege	0	static,ignoring_inline_asm
+port.c:1065:10:vPortValidateInterruptPriority	24	static,ignoring_inline_asm

@@ -1,0 +1,8 @@
+stm32l1xx_ll_usart.h:1813:26:LL_USART_IsActiveFlag_TXE	16	static
+stm32l1xx_ll_usart.h:2425:22:LL_USART_TransmitData8	16	static
+stm32l1xx_ll_gpio.h:883:22:LL_GPIO_SetOutputPin	16	static
+stm32l1xx_ll_gpio.h:913:22:LL_GPIO_ResetOutputPin	16	static
+mpu_demo.c:119:13:prvTestTask	216	static
+mpu_demo.c:357:6:vStartMPUDemo	88	static
+mpu_demo.c:426:23:vHandleMemoryFault	24	static
+mpu_demo.c:492:6:_putchar	16	static
