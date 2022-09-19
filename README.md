@@ -5,7 +5,7 @@ https://www.ndss-symposium.org/ndss-paper/auto-draft-258/
 
 
 The security design issues of the FreeRTOS Kernel, described in this paper, 
-were responsibly reported to FreeRTOS developers (AWS Amazon). 
+were responsibly reported to FreeRTOS developers (Amazon AWS). 
 Check the official Amazon Security update on the following link:
 https://www.freertos.org/security/security_updates.html
 
