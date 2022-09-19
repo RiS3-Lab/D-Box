@@ -4,6 +4,12 @@ This is the repository for D-Box paper presented at NDSS 2022 Symposium.
 https://www.ndss-symposium.org/ndss-paper/auto-draft-258/
 
 
+The security design issues of the FreeRTOS Kernel, described in this paper, 
+were responsibly reported to FreeRTOS developers (AWS Amazon). 
+Check the official Amazon Security update on the following link:
+https://www.freertos.org/security/security_updates.html
+
+
 # Citing our paper
 
 If your research find one or several components of D-Box useful, please use the following citation:
